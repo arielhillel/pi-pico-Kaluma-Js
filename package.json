@@ -1,0 +1,19 @@
+{
+  "name": "pi-pico-first-project",
+  "version": "1.0.0",
+  "description": "Pi Pico first project with JavaScript runtime - Kaluma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielhillel/pi-pico-Kaluma-Js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielhillel/pi-pico-Kaluma-Js/issues"
+  },
+  "homepage": "https://github.com/arielhillel/pi-pico-Kaluma-Js#readme"
+}
